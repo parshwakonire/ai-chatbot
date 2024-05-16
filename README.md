@@ -8,6 +8,8 @@
 <body>
 <h1>ChatBot</h1>
     <p>ChatBot is a basic Python-based chatbot that can handle a variety of simple queries. It can tell you the current time, perform basic arithmetic operations, provide definitions for specific terms, and respond to basic greetings and farewells.</p>
+  
+  <p>pd mean Pre Data </p>
     <h2>Table of Contents</h2>
   <ul>
     <li><a href="#features">Features</a></li>
