@@ -16,8 +16,7 @@
             <pre><code>git clone https://github.com/parshwakonire/pd-chatbot cd pd-chatbot</code></pre>
         </li>
         <li><strong>Set up a virtual environment (optional but recommended)</strong>:
-            <pre><code>python -m venv venv
-source venv/bin/activate  <!-- On Windows use `venv\Scripts\activate` --></code></pre>
+            <pre><code>python -m venv venv source venv/bin/activate </code></pre>
         </li>
         <li><strong>Install required packages</strong>:
             <pre><code>pip install -r requirements.txt</code></pre>
